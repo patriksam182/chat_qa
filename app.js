@@ -32,7 +32,7 @@ app.get('/', routes.index);
 
 //Asignamos a server la creación del servidor http.
 var server = http.createServer(app).listen(app.get('port'), function(){
-  console.log("puerto que esta escuchando ahorrrrr  okiiiii samsasmasmasma otrotort" + app.get('port'));
+  console.log("puerto que esta escuchando ahorrrrr  okiiiii samsasmasmasma otrotort   fff" + app.get('port'));
 });
 
 //Importamos socket.io utilizando el servidor creado anteriormente.
