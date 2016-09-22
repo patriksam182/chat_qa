@@ -1,4 +1,3 @@
-#Socket.io Example#
-
-##License##
-Released under the MIT license.
+#Chat
+#node JS
+#Patrik Smauel Sacbaja Chex
