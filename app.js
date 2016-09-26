@@ -1,4 +1,3 @@
-
 /**
  * Module dependencies.
  */
@@ -6,6 +5,8 @@
 var express = require('express')
   , routes = require('./routes')
   , http = require('http');
+
+  //var EventEmitter = require('events');
 
 var app = express();
 
